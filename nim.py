@@ -11,11 +11,11 @@ from any 1 pile. Whoever takes the last stone is the winner.
 whoever takes the last stones is the LOSER)
 
     Eg.
-       3 5 7   Player 1 takes 2 from Pile 1
-    -> 1 5 7   Player 2 takes 5 from Pile 2
-    -> 1 0 7   Player 1 takes 6 from Pile 3
-    -> 1 0 1   Player 2 takes 1 from Pile 1
-    -> 0 0 1   Player 1 takes 1 from Pile 3
+       3 5 7   Player 1 takes 2 from Pile 0
+    -> 1 5 7   Player 2 takes 5 from Pile 1
+    -> 1 0 7   Player 1 takes 6 from Pile 2
+    -> 1 0 1   Player 2 takes 1 from Pile 0
+    -> 0 0 1   Player 1 takes 1 from Pile 2
     -> 0 0 0   Player 1 is the WINNER!
 '''
 
